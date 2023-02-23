@@ -1,0 +1,523 @@
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe.config
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.pdb
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.xml
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FK524PXNLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FKAttendLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FKRealSvrLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.JRO.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Mr_Lam_HV.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.SB100BPCLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.VBIDE.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.zkemkeeper.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FK524PXNLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FKAttendLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FKRealSvrLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.Mr_Lam_HV.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.SB100BPCLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.zkemkeeper.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\ResolveAssemblyReference.cache
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FK524PXNLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FKAttendLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FKRealSvrLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.JRO.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Mr_Lam_HV.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.SB100BPCLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.VBIDE.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.zkemkeeper.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FK524PXNLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FKAttendLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FKRealSvrLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.Mr_Lam_HV.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.SB100BPCLib.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.zkemkeeper.dll
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FChay.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FNhapDL.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FPhienBan.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Frmnhanvien.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmTree.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FXuatDL.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhcanghi.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhBCCong.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhchongiols.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCA.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhChucvu.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangKy.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChinh.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCa.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhIP.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichLamViec.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichNHANVIEN.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLydo.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhngayle.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhUSB.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Resources.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.SplashScreen.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.LichLamViecControl.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ShapeControl.resources
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.cache
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.compiled
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.exe
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.xml
+D:\Phan Mem Cham Cong Chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe.config
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.JRO.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.VBIDE.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.xml
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.xml
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.JRO.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.VBIDE.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\ResolveAssemblyReference.cache
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FChay.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FNhapDL.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FPhienBan.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Frmnhanvien.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmTree.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FXuatDL.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhcanghi.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhBCCong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhchongiols.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCA.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhChucvu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangKy.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChinh.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCa.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhIP.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichLamViec.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichNHANVIEN.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLydo.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhngayle.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhUSB.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Resources.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.SplashScreen.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.LichLamViecControl.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ShapeControl.resources
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.cache
+E:\Cham cong chuan 1\PM Cham cong chuan\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.compiled
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe.config
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.JRO.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.VBIDE.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\Interop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\AxInterop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.xml
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.xml
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.JRO.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.VBIDE.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FK524PXNLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FKAttendLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.SB100BPCLib.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.zkemkeeper.dll
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\ResolveAssemblyReference.cache
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FChay.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FNhapDL.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FPhienBan.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Frmnhanvien.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmTree.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FXuatDL.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhcanghi.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhBCCong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhchongiols.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCA.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhChucvu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangKy.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChinh.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCa.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhIP.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichLamViec.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichNHANVIEN.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLydo.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhngayle.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhUSB.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Resources.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.SplashScreen.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.LichLamViecControl.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ShapeControl.resources
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.cache
+E:\Cham cong chuan 1\PM Cham cong chuan 2k10\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.compiled
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe.config
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.xml
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\KhaiPhamLai.xml
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\ListViewPrinter.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\ObjectListView.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.SB100BPCLib.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.VBIDE.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\ResolveAssemblyReference.cache
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FChay.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FNhapDL.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FPhienBan.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Frmnhanvien.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmTree.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FXuatDL.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmThongTinLuong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhLuong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhSuaSoLuongMon.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Form1.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhcanghi.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhBCCong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChinh.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhchongiols.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCA.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhChucvu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangKy.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCa.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhIP.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichLamViec.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLichNHANVIEN.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLydo.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhngayle.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhUSB.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Resources.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.SplashScreen.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.LichLamViecControl.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ShapeControl.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.cache
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.compiled
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.exe.config
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.exe
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.pdb
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.xml
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FK524PXNLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FK524PXNLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\ResolveAssemblyReference.cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FChay.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FNhapDL.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FPhienBan.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Frmnhanvien.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmTree.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FXuatDL.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmHoTroNhap.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmThongTinLuong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhLuong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Form1.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhcanghi.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhBCCong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChinh.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhchongiols.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCA.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhChucvu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangKy.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhIP.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLydo.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhngayle.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhUSB.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Resources.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.SplashScreen.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ShapeControl.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.compiled
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\METRON 4.2 NO IO.exe
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\METRON 4.2 NO IO.xml
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\METRON 4.2 NO IO.pdb
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.exe.config
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.exe
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.pdb
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\METRON 4.2 NO IO.xml
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\AxInterop.FK524PXNLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\Debug\Interop.FK524PXNLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\ResolveAssemblyReference.cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FChay.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FNhapDL.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FPhienBan.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Frmnhanvien.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmTree.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.FXuatDL.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmHoTroNhap.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.frmThongTinLuong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhLuong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Form1.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhcanghi.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhBCCong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChinh.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhchongiols.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCA.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhChucvu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangKy.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhIP.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhLydo.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Manhinhngayle.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManhinhUSB.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.Resources.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.SplashScreen.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.ShapeControl.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\RdlCompile.compiled
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\METRON 4.2 NO IO.exe
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\METRON 4.2 NO IO.xml
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\Debug\METRON 4.2 NO IO.pdb

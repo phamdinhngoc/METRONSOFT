@@ -1,0 +1,47 @@
+
+[Version]
+Signature="$CHICAGO$"
+Class=Ports
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+Provider=%PEFIS%
+DriverVer=07/22/2008, 5.0.2195.4858
+
+[DestinationDirs]
+DefaultDestDir=12
+
+[Manufacturer]
+%MfgName%=FKUSBMfg
+
+
+[FKUSBMfg]
+%DeviceDesc%=FKUSBCom.Install, USB\VID_0624&PID_2188
+
+[FKUSBCom.Install]
+include=mdmcpq.inf
+CopyFiles=FakeModemCopyFileSection,FKUSBComFilterCopyFileSection
+AddReg=FKUSBCom.AddReg
+
+
+[FKUSBCom.AddReg]
+HKR,,DevLoader,,*ntkern                                         ;
+HKR,,NTMPDriver,,usbser.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+
+[FKUSBCom.Install.Services]
+AddService=usbser,0x00000002,FKUSBCom.AddService
+
+[FKUSBCom.AddService]
+DisplayName=%DriverDesc%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+
+;---------------------------------------------------------------;
+
+[Strings]
+PEFIS="PEFIS Co.,Ltd."
+MfgName="PEFIS Co.,Ltd."
+DriverDesc="PEFIS FingerKeeper series USB Driver (FKUSBCom.sys)"
+DeviceDesc="PEFIS FingerKeeper(USB Serial) Device"

@@ -1,0 +1,1306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{591F1D3B-8D48-4FCC-B0AD-E7CE398C91C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>KhaiPhamLai.My.MyApplication</StartupObject>
+    <RootNamespace>KhaiPhamLai</RootNamespace>
+    <AssemblyName>METRON 4.2 NO IO</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>METRONSOFT icon.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>METRON 4.2 NO IO.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>METRON 4.2 NO IO.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.FK524PXNLib">
+      <HintPath>..\DLL\AxInterop.FK524PXNLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.FKAttendLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.FKAttendLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.FKRealSvrLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.FKRealSvrLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.Mr_Lam_HV, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.Mr_Lam_HV.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.SB100BPCLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.SB100BPCLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.SBXPCLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Ngoc's File\4.2 No IO(chuankoluong)\KhaiPhamLai\bin\x86\Debug\AxInterop.SBXPCLib.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.zkemkeeper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.zkemkeeper.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.FK524PXNLib">
+      <HintPath>..\DLL\Interop.FK524PXNLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.FKAttendLib">
+      <HintPath>bin\Debug\Interop.FKAttendLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.FKRealSvrLib">
+      <HintPath>bin\Debug\Interop.FKRealSvrLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.JRO">
+      <HintPath>bin\Debug\Interop.JRO.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Excel, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Mr_Lam_HV">
+      <HintPath>bin\Debug\Interop.Mr_Lam_HV.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.SB100BPCLib">
+      <HintPath>bin\Debug\Interop.SB100BPCLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.SBXPCLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Ngoc's File\4.2 No IO(chuankoluong)\KhaiPhamLai\bin\x86\Debug\Interop.SBXPCLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.zkemkeeper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.zkemkeeper.dll</HintPath>
+    </Reference>
+    <Reference Include="ListViewPrinter">
+      <HintPath>bin\Debug\ListViewPrinter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 10.0\ReportViewer\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="ObjectListView">
+      <HintPath>bin\Debug\ObjectListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="FKRealSvrLib" />
+    <Import Include="Microsoft.Reporting.WinForms" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bus\abstractBus.vb" />
+    <Compile Include="bus\cabus.vb" />
+    <Compile Include="bus\caTDbus.vb" />
+    <Compile Include="bus\chucvubus.vb" />
+    <Compile Include="bus\donvibus.vb" />
+    <Compile Include="bus\Lichbus.vb" />
+    <Compile Include="bus\Lichclassbus.vb" />
+    <Compile Include="bus\lichnvbus.vb" />
+    <Compile Include="bus\lichtambus.vb" />
+    <Compile Include="bus\lydobus.vb" />
+    <Compile Include="bus\Maybus.vb" />
+    <Compile Include="bus\Ngaylebus.vb" />
+    <Compile Include="bus\Nguoidungbus.vb" />
+    <Compile Include="bus\nhanvienbus.vb" />
+    <Compile Include="bus\Nhatkybus.vb" />
+    <Compile Include="bus\NVBCbus.vb" />
+    <Compile Include="bus\NVnghiphepbus.vb" />
+    <Compile Include="bus\nvvanbus.vb" />
+    <Compile Include="Luong\PhucapluongBus.vb" />
+    <Compile Include="bus\Quyenbus.vb" />
+    <Compile Include="bus\QuyenChiTietbus.vb" />
+    <Compile Include="bus\thamsobus.vb" />
+    <Compile Include="bus\TienAnTangCabus.vb" />
+    <Compile Include="bus\Vaorabus.vb" />
+    <Compile Include="CaiDatNhanCalamviec.Designer.vb">
+      <DependentUpon>CaiDatNhanCalamviec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaiDatNhanCalamviec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dao\abstractDao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\cadao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\caTDdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\chucvudao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\donvidao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Lichclassdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Lichdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\lichnvdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\lichtamdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\lydodao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Maydao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Ngayledao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Nguoidungdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\nhanviendao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Nhatkydao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\NVBCdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\NVnghiphepdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\nvvandao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Luong\PhuCapLuongDao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\QuyenChiTietdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Quyendao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\thamsodao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\TienAnTangCadao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dao\Vaoradao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSetTam.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetTam.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetTam.vb">
+      <DependentUpon>DataSetTam.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dto\BaoCaoTongHop.vb" />
+    <Compile Include="dto\CacLoaiBaocao.vb" />
+    <Compile Include="dto\caTDdto.vb" />
+    <Compile Include="dto\lichnvdto.vb" />
+    <Compile Include="dto\lichtamdto.vb" />
+    <Compile Include="dto\lydodto.vb" />
+    <Compile Include="dto\Maydto.vb" />
+    <Compile Include="dto\Ngayledto.vb" />
+    <Compile Include="dto\NVBCdto.vb" />
+    <Compile Include="dto\NVnghiphepdto.vb" />
+    <Compile Include="dto\nvvandto.vb" />
+    <Compile Include="Luong\Phucapluongdto.vb" />
+    <Compile Include="dto\thamsodto.vb" />
+    <Compile Include="dto\ThongTinCaTuDong.vb" />
+    <Compile Include="dto\ThongTinLichTam.vb" />
+    <Compile Include="dto\TienAnTangCadto.vb" />
+    <Compile Include="dto\Vaoradto.vb" />
+    <Compile Include="FChay.Designer.vb">
+      <DependentUpon>FChay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FChay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FNhapDL.designer.vb">
+      <DependentUpon>FNhapDL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FNhapDL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPhienBan.designer.vb">
+      <DependentUpon>FPhienBan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPhienBan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongTinBanQuyen.Designer.vb">
+      <DependentUpon>frmThongTinBanQuyen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongTinBanQuyen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FXuatDL.designer.vb">
+      <DependentUpon>FXuatDL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FXuatDL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KN\BVanTay.vb" />
+    <Compile Include="KN\ClassGDMay.vb" />
+    <Compile Include="KN\index.vb" />
+    <Compile Include="KN\ModuleKN.vb" />
+    <Compile Include="KN\ModuleMaHoa.vb" />
+    <Compile Include="KN\ModulePD.vb" />
+    <Compile Include="KN\SeriNo.vb" />
+    <Compile Include="Luong\Bangluongbus.vb" />
+    <Compile Include="Luong\Bangluongdao.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Luong\Bangluongdto.vb" />
+    <Compile Include="Luong\frmHoTroNhap.Designer.vb">
+      <DependentUpon>frmHoTroNhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Luong\frmHoTroNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Luong\frmPhuCapLuong.Designer.vb">
+      <DependentUpon>frmPhuCapLuong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Luong\frmPhuCapLuong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Luong\frmThongTinLuong.Designer.vb">
+      <DependentUpon>frmThongTinLuong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Luong\frmThongTinLuong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Luong\ManhinhLuong.designer.vb">
+      <DependentUpon>ManhinhLuong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Luong\ManhinhLuong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Luong\PhieuLuong.vb" />
+    <Compile Include="ManHinhApLichNV.designer.vb">
+      <DependentUpon>ManHinhApLichNV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhApLichNV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhbaocao\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhbaocao\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhbaocao\ManHinhBaoCao.Designer.vb">
+      <DependentUpon>ManHinhBaoCao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhbaocao\ManHinhBaoCao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhbaocao\nghi-trua-chieu\Manhinhcanghi.Designer.vb">
+      <DependentUpon>Manhinhcanghi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhbaocao\nghi-trua-chieu\Manhinhcanghi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhbaocao\Manhinhca\ManHinhCAKhac.Designer.vb">
+      <DependentUpon>ManHinhCAKhac.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhbaocao\Manhinhca\ManHinhCAKhac.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManhinhBCCong.Designer.vb">
+      <DependentUpon>ManhinhBCCong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManhinhBCCong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhChinh.Designer.vb">
+      <DependentUpon>ManHinhChinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhChinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhchongio\Manhinhchongiols.Designer.vb">
+      <DependentUpon>Manhinhchongiols.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhchongio\Manhinhchongiols.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhbaocao\Manhinhca\ManHinhCA.Designer.vb">
+      <DependentUpon>ManHinhCA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhbaocao\Manhinhca\ManHinhCA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhCaTamThoi.Designer.vb">
+      <DependentUpon>ManHinhCaTamThoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhCaTamThoi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhchongio\ManHinhChon Gio.Designer.vb">
+      <DependentUpon>ManHinhChon Gio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhchongio\ManHinhChon Gio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManhinhChucvu.Designer.vb">
+      <DependentUpon>ManhinhChucvu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManhinhChucvu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhDangNhap.designer.vb">
+      <DependentUpon>ManHinhDangNhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhDangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhDocExcel_NhanVien.Designer.vb">
+      <DependentUpon>ManHinhDocExcel_NhanVien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhDocExcel_NhanVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhEpCaTD.Designer.vb">
+      <DependentUpon>ManHinhEpCaTD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhEpCaTD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhLydo.Designer.vb">
+      <DependentUpon>ManHinhLydo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhLydo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manhinhngayle.Designer.vb">
+      <DependentUpon>Manhinhngayle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Manhinhngayle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhNhanVienNghiVanTinhCong.Designer.vb">
+      <DependentUpon>ManHinhNhanVienNghiVanTinhCong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhNhanVienNghiVanTinhCong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhNVDiLam.Designer.vb">
+      <DependentUpon>ManHinhNVDiLam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhNVDiLam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManhinhNVtheoDV.Designer.vb">
+      <DependentUpon>ManhinhNVtheoDV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManhinhNVtheoDV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManhinhQLBophan.designer.vb">
+      <DependentUpon>ManhinhQLBophan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManhinhQLBophan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhQlNVtrenMCC.Designer.vb">
+      <DependentUpon>ManHinhQlNVtrenMCC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhQlNVtrenMCC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhQLTTMayChamCong.Designer.vb">
+      <DependentUpon>ManHinhQLTTMayChamCong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhQLTTMayChamCong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhTaiDulieu.Designer.vb">
+      <DependentUpon>ManHinhTaiDulieu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhTaiDulieu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhThemSuaLydo.Designer.vb">
+      <DependentUpon>ManHinhThemSuaLydo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhThemSuaLydo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhThietLapMCC.Designer.vb">
+      <DependentUpon>ManHinhThietLapMCC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhThietLapMCC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManhinhUSB.Designer.vb">
+      <DependentUpon>ManhinhUSB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManhinhUSB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhXoaDLCC.designer.vb">
+      <DependentUpon>ManHinhXoaDLCC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhXoaDLCC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\class\DataGrid\DataGridButtonColumn.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dto\abstractDto.vb" />
+    <Compile Include="dto\cadto.vb" />
+    <Compile Include="dto\chucvudto.vb" />
+    <Compile Include="dto\donvidto.vb" />
+    <Compile Include="dto\Ketnoi\AccessDto.vb" />
+    <Compile Include="dto\Ketnoi\ketnoiDto.vb" />
+    <Compile Include="dto\Lichclassdto.vb" />
+    <Compile Include="dto\Lichdto.vb" />
+    <Compile Include="dto\Nguoidungdto.vb" />
+    <Compile Include="dto\Ketnoi\SqlDto.vb" />
+    <Compile Include="dto\nhanviendto.vb" />
+    <Compile Include="dto\Nhatkydto.vb" />
+    <Compile Include="dto\QuyenChiTietdto.vb" />
+    <Compile Include="dto\Quyendto.vb" />
+    <Compile Include="frmnhanvien.designer.vb">
+      <DependentUpon>frmnhanvien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmnhanvien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTree.Designer.vb">
+      <DependentUpon>frmTree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhDangKy.Designer.vb">
+      <DependentUpon>ManHinhDangKy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhDangKy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManhinhIP.Designer.vb">
+      <DependentUpon>ManhinhIP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManhinhIP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhMasoTrong.Designer.vb">
+      <DependentUpon>ManHinhMasoTrong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhMasoTrong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhMatKhau.Designer.vb">
+      <DependentUpon>ManHinhMatKhau.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhMatKhau.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhNhatKy.Designer.vb">
+      <DependentUpon>ManHinhNhatKy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhNhatKy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhPhucHoi.Designer.vb">
+      <DependentUpon>ManHinhPhucHoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhPhucHoi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhSaoLuu.Designer.vb">
+      <DependentUpon>ManHinhSaoLuu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhSaoLuu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhSuaMatKhau.Designer.vb">
+      <DependentUpon>ManHinhSuaMatKhau.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhSuaMatKhau.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhThongTinNguoidung.Designer.vb">
+      <DependentUpon>ManHinhThongTinNguoidung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhThongTinNguoidung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhTimKiemNhanViên.Designer.vb">
+      <DependentUpon>ManHinhTimKiemNhanViên.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhTimKiemNhanViên.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhTroDuLieu.Designer.vb">
+      <DependentUpon>ManHinhTroDuLieu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhTroDuLieu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhXemNguoidung.Designer.vb">
+      <DependentUpon>ManHinhXemNguoidung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhXemNguoidung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ManHinhQuenMatKhau.Designer.vb">
+      <DependentUpon>ManHinhQuenMatKhau.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhQuenMatKhau.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanQuyenChoNguoiDung%282%29.Designer.vb">
+      <DependentUpon>PhanQuyenChoNguoiDung%282%29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PhanQuyenChoNguoiDung%282%29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhanQuyenChoNguoidung.Designer.vb">
+      <DependentUpon>PhanQuyenChoNguoidung.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PhanQuyenChoNguoidung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\class\CalamViec.vb" />
+    <Compile Include="Usercontrol\class\DataGrid\DataGridComboBoxColumn.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\class\DataGrid\DataGridTimePickerColumn.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Usercontrol\class\LoaiChuky.vb" />
+    <Compile Include="Usercontrol\ShapeControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BaoCaoCong.rdlc" />
+    <EmbeddedResource Include="CaiDatNhanCalamviec.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CaiDatNhanCalamviec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FChay.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FChay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FNhapDL.resx">
+      <DependentUpon>FNhapDL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPhienBan.resx">
+      <DependentUpon>FPhienBan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmnhanvien.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmnhanvien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongTinBanQuyen.resx">
+      <DependentUpon>frmThongTinBanQuyen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTree.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTree.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FXuatDL.resx">
+      <DependentUpon>FXuatDL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Luong\frmHoTroNhap.resx">
+      <DependentUpon>frmHoTroNhap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Luong\frmPhuCapLuong.resx">
+      <DependentUpon>frmPhuCapLuong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Luong\frmThongTinLuong.resx">
+      <DependentUpon>frmThongTinLuong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Luong\ManhinhLuong.resx">
+      <DependentUpon>ManhinhLuong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhApLichNV.resx">
+      <DependentUpon>ManHinhApLichNV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhbaocao\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhbaocao\ManHinhBaoCao.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhBaoCao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhbaocao\nghi-trua-chieu\Manhinhcanghi.resx">
+      <DependentUpon>Manhinhcanghi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhbaocao\Manhinhca\ManHinhCAKhac.resx">
+      <DependentUpon>ManHinhCAKhac.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManhinhBCCong.resx">
+      <DependentUpon>ManhinhBCCong.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhChinh.resx">
+      <DependentUpon>ManHinhChinh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhchongio\Manhinhchongiols.resx">
+      <DependentUpon>Manhinhchongiols.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhbaocao\Manhinhca\ManHinhCA.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhCA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhCaTamThoi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhCaTamThoi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhchongio\ManHinhChon Gio.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhChon Gio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManhinhChucvu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManhinhChucvu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhDangKy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhDangKy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhDangNhap.resx">
+      <DependentUpon>ManHinhDangNhap.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhDocExcel_NhanVien.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhDocExcel_NhanVien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhEpCaTD.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhEpCaTD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManhinhIP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManhinhIP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhLydo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhLydo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhMasoTrong.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhMasoTrong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhMatKhau.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhMatKhau.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manhinhngayle.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Manhinhngayle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhNhanVienNghiVanTinhCong.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhNhanVienNghiVanTinhCong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhNhatKy.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhNhatKy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhNVDiLam.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhNVDiLam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManhinhNVtheoDV.resx">
+      <DependentUpon>ManhinhNVtheoDV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhPhucHoi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhPhucHoi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManhinhQLBophan.resx">
+      <DependentUpon>ManhinhQLBophan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhQlNVtrenMCC.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhQlNVtrenMCC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhQLTTMayChamCong.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhQLTTMayChamCong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhQuenMatKhau.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhQuenMatKhau.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhSaoLuu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhSaoLuu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhSuaMatKhau.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhSuaMatKhau.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhTaiDulieu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhTaiDulieu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhThemSuaLydo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhThemSuaLydo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhThietLapMCC.resx">
+      <DependentUpon>ManHinhThietLapMCC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhThongTinNguoidung.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhThongTinNguoidung.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhTimKiemNhanViên.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhTimKiemNhanViên.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhTroDuLieu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhTroDuLieu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManhinhUSB.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManhinhUSB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhXemNguoidung.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManHinhXemNguoidung.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhXoaDLCC.resx">
+      <DependentUpon>ManHinhXoaDLCC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanQuyenChoNguoiDung%282%29.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PhanQuyenChoNguoiDung%282%29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhanQuyenChoNguoidung.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PhanQuyenChoNguoidung.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usercontrol\ShapeControl.resx">
+      <DependentUpon>ShapeControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unreadbm.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addInfoBand.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bitmap2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COFECUP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large_information.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\low_priority.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallFail.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallSuccess.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MayCC.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MayCCNho.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MayCCNho2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ketnoi10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NgatKetnoi.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ketnoi2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MCC-Maytinh.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KiemTra.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KiemTra1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KiemTra2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BaoCaoTV1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BaoCaoTV.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhanvien1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phongban1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lich.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDL.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bao cao.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classmate_48.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shutdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classmate_48.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WMP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghi.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoDaiBang1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoDaiBang2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoDaiBang21.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhanvien6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\nhanvien5.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suport-F-online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suport-M-online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_brown_32_h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChuVu.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SO 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SO2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SO 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Load.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emoticon8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insert.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\metronsoft logo2 for print.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizBigOnlineFolder.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HDCP_Utils.dll" />
+    <Content Include="HwDevComm.dll" />
+    <Content Include="iconMT.ico" />
+    <Content Include="METRONSOFT icon.ico" />
+    <Content Include="MT-ICon.ico" />
+    <Content Include="Resources\Logo Viet My.bmp" />
+    <None Include="Resources\Money.png" />
+    <None Include="Resources\MayCC.png" />
+    <None Include="Resources\hinhtihnluong2.gif" />
+    <None Include="Resources\usb-CSDL.JPG" />
+    <None Include="Resources\11.bmp" />
+    <None Include="Resources\12.bmp" />
+    <None Include="Resources\13.bmp" />
+    <None Include="Resources\14.bmp" />
+    <None Include="Resources\button_cancel1.png" />
+    <None Include="Resources\BaoCao.jpeg" />
+    <None Include="Resources\CSDLNhap.JPG" />
+    <None Include="Resources\hinhtihnluong1.gif" />
+    <None Include="Resources\CSDLXuat.JPG" />
+    <None Include="Resources\images31.jpg" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\images3.jpg" />
+    <None Include="Resources\NgatKetnoi1.bmp" />
+    <None Include="Resources\NgatKetnoi2.bmp" />
+    <None Include="Resources\hinhtihnluong.gif" />
+    <None Include="Resources\remove1.png" />
+    <None Include="Resources\edit_add.png" />
+    <None Include="Resources\button_cancel.png" />
+    <None Include="DataSetTam.xsc">
+      <DependentUpon>DataSetTam.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetTam.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetTam.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSetTam.xss">
+      <DependentUpon>DataSetTam.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Organizational Unit.png" />
+    <None Include="Resources\table.png" />
+    <None Include="Resources\images2.jpeg" />
+    <None Include="Resources\images1.jpeg" />
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Report\Crystal\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

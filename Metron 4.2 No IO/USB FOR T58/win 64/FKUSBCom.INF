@@ -1,0 +1,64 @@
+; FKUSBCOM.INF
+; Copyright (c) Microsoft Corporation.  All rights reserved.
+
+
+
+;;++ Added by AddSDisk.cmd
+[SourceDisksNames]
+3426=windows cd
+
+[SourceDisksFiles]
+usbser.sys 		= 3426
+;;--
+
+[version]
+;; Commented by AddSDisk.cmd
+;; LayoutFile=layout.inf
+signature="$Windows NT$"
+Class=Ports
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+Provider=%PEFIS%
+DriverVer=07/22/2008, 5.0.2195.4858
+
+[DestinationDirs]
+DefaultDestDir=12
+
+[Manufacturer]
+%MfgName%=FKUSBMfg,NTamd64
+
+[FKUSBMfg.NTamd64]
+%DeviceDesc%=FKUSBCom, USB\VID_0624&PID_2188
+
+[FKUSBCom.NT]
+include=mdmcpq.inf
+CopyFiles=FakeModemCopyFileSection
+AddReg=FKUSBCom.NT.AddReg
+
+[FKUSBCom.NT.HW]
+AddReg=FKUSBCom.NT.HW.AddReg
+
+[FKUSBCom.NT.AddReg]
+HKR,,DevLoader,,*ntkern                                         ;
+HKR,,NTMPDriver,,usbser.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[FKUSBCom.NT.Services]
+AddService=usbser,0x00000002,FKUSBCom.AddService
+
+[FKUSBCom.NT.HW.AddReg]
+
+
+[FKUSBCom.AddService]
+DisplayName=%DriverDesc%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+
+;---------------------------------------------------------------;
+
+[Strings]
+PEFIS="PEFIS Co.,Ltd."
+MfgName="PEFIS Co.,Ltd."
+DriverDesc="PEFIS FingerKeeper series USB Driver (FKUSBCom.sys)"
+DeviceDesc="PEFIS FingerKeeper(USB Serial) Device"

@@ -1,0 +1,5 @@
+Phien ban can ban (La Phien Ban Nang Cap Tu 4.1 )
+Nhung tinh dc cac ca qua dem. Day la phien ban co 2 tinh nang 4.1  va 4.2
+Cac ca qua dem thi admin phai khai bao tren phan thiet lap lich
+Khong can an In/Out nhung chi tinh trong ngay
+Xuat bao cao ra excel

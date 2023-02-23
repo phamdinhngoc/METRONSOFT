@@ -1,0 +1,844 @@
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\KhaiPhamLai.exe.config
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.VBIDE.dll
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhSuaSoLuongMon.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.LichLamViecControl.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.exe
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.pdb
+E:\Cham cong chuan 1\4.2Mt\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\Interop.FK524PXNLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.VBIDE.dll
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+E:\Khach Hang\30 MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.VBIDE.dll
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+E:\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+F:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+D:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+G:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+G:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+G:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+G:\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+G:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SBXPCLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SBXPCLib.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+D:\Dinh Ngoc HDD\MANHTIEN\customers\Khach Hang\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+D:\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe.config
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.exe
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\METRON 4.2 NO IO.pdb
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FK524PXNLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKAttendLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.FKRealSvrLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.Mr_Lam_HV.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.SB100BPCLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\AxInterop.zkemkeeper.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FK524PXNLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKAttendLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.FKRealSvrLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.JRO.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.Mr_Lam_HV.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.SB100BPCLib.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\Interop.zkemkeeper.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ListViewPrinter.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\bin\x86\Debug\ObjectListView.dll
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.ResolveComReference.cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.CaiDatNhanCalamviec.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FChay.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FNhapDL.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FPhienBan.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Frmnhanvien.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinBanQuyen.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmTree.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.FXuatDL.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmHoTroNhap.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmThongTinLuong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhLuong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhApLichNV.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Form1.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhBaoCao.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhcanghi.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCAKhac.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhBCCong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChinh.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhchongiols.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCA.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhCaTamThoi.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhChon_Gio.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhChucvu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangKy.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDangNhap.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhDocExcel_NhanVien.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhEpCaTD.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhIP.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhLydo.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMasoTrong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhMatKhau.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Manhinhngayle.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhanVienNghiVanTinhCong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNhatKy.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhNVDiLam.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhNVtheoDV.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhPhucHoi.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhQLBophan.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQlNVtrenMCC.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQLTTMayChamCong.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhQuenMatKhau.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSaoLuu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhSuaMatKhau.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTaiDulieu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThemSuaLydo.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThietLapMCC.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhThongTinNguoidung.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTimKiemNhanViên.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhTroDuLieu.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManhinhUSB.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXemNguoidung.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ManHinhXoaDLCC.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.Resources.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoiDung_2_.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.PhanQuyenChoNguoidung.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.SplashScreen.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.ShapeControl.resources
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.vbproj.GenerateResource.Cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.cache
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\RdlCompile.compiled
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.exe
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\METRON 4.2 NO IO.pdb
+D:\ngoc\METRON SOFT\30 -  MTV Co Viet My (Chuẩn + Lương Acces)_1\Metron 4.2 No IO\KhaiPhamLai\obj\x86\Debug\KhaiPhamLai.frmPhuCapLuong.resources

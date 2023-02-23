@@ -1,0 +1,8 @@
+MenuQLDL_PhucHoiDL
+MenuQLDL_TroDL
+ToolStripSeparator9
+MenuQLMay_MenuQLMCC
+MenuQLTaiKhoan_XemTatCaTK
+ToolStripSeparator12
+PhânQuyềnNgườiDùngToolStripMenuItem
+MenuQLTaiKhoan_TaoTK
